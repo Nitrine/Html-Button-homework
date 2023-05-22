@@ -1,0 +1,33 @@
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.title1 {
+    font-size: 45px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.button {
+    display:inline;
+    text-align: center;
+    margin: 0 100px 0 100px;
+}
+
+.button button{
+    background-color: rgb(236, 78, 78);
+    width: 150px;
+    height: 70px;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 5px;
+    box-shadow: 0 10px 10px 0 rgb(214, 214, 214);
+    cursor: pointer;
+}
+
+.button__box{
+    display: block;
+    text-align: center;
+    margin-top: 50px;
+}
